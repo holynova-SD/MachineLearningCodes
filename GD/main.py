@@ -12,7 +12,7 @@ if __name__ == '__main__':
     sample_num = 10
 
     # set the rank of the polynomial function
-    m = 3
+    m = 5
 
     # initialize the training set
     data_x, data_y = init_data(sample_num, 0, 1, 0.05)
